@@ -1,4 +1,4 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+<img align="left" src="FF4B3379-647F-4C22-A30A-4C3D8B5AE77C_4_5005_c.jpeg">
 
 ### Hi, I'm Sylvie
 
