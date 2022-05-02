@@ -1,4 +1,4 @@
-<img align="left" src="https://media.giphy.com/media/W8kmoL6udp9LO/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/W8kmoL6udp9LO/giphy.gif">
 
 ### Hi, I'm Sylvie
 
